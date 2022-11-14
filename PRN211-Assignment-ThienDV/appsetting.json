@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "FoodRestaurant": "server=(local); database= FoodRestaurant; uid=sa; pwd=12345; TrustServerCertificate=True"
+  }
+}
